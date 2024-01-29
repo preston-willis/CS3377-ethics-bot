@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CS3377-ethics-bot",
+    "slug": "CS3377-ethics-bot",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CS3377-ethics-bot"
+}
